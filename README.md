@@ -1,2 +1,3 @@
 # Pareto_Frontiers
-Exploring all the Pareto frontiers layers
+Exploring all the layers of the Pareto frontiers on a given dataset.
+
